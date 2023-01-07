@@ -21,7 +21,6 @@ Projeto desenvolvido como desafio para conclusão do módulo 4 do curso.
 - HTML
 - CSS
 - Git e Github
-- Vite
 
 
 ## 📖 Bibliotecas
